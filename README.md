@@ -17,7 +17,7 @@ This repository contains the code for my personal portfolio website. The website
 
 To run this website locally, you'll need to have the following installed:
 
-- Any Code Editor Or Maybe A Notepad
+- Any Code Editor Or Maybe A Notepad++
 
 Once you have these installed, you can clone this repository to your local machine using the following command:
 
